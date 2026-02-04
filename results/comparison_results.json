@@ -1,0 +1,17 @@
+{
+  "num_episodes": 100,
+  "rl": {
+    "avoidance_rate": 92.5925925925926,
+    "collision_rate": 7.407407407407407,
+    "avg_reward": -71.83400000000034,
+    "avg_episode_length": 438.76,
+    "total_score": -7183.400000000034
+  },
+  "ml": {
+    "avoidance_rate": 93.47319347319348,
+    "collision_rate": 6.526806526806527,
+    "avg_reward": -68.60500000000033,
+    "avg_episode_length": 446.43,
+    "total_score": -6860.5000000000355
+  }
+}

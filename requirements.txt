@@ -1,5 +1,15 @@
-pygame
-numpy
-matplotlib
-scikit-learn
-pandas
+# Navette Robotique Anti-Collision
+# Projet ML + RL
+
+# Simulation
+pygame-ce>=2.5.0
+
+# Machine Learning
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Utilitaires
+tqdm>=4.65.0
