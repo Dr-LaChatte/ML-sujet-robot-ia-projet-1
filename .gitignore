@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+data/convergence_plot.png
+data/test_q_table.npy
